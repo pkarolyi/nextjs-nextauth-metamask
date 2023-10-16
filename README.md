@@ -1,7 +1,5 @@
 # NextJs Metamask Authentication with NextAuth
 
-Made by [<img src="https://github.com/DakaiGroup/nextjs-nextauth-metamask/raw/main/dakai-logo.png" height="18" />](https://www.dakai.io/).
-
 ## Purpose
 
 This project demonstrates how to authenticate with [Metamask](https://metamask.io/) using [Next.js](https://nextjs.org) and [NextAuth.js](https://next-auth.js.org).
@@ -20,7 +18,7 @@ This example stores the generated nonce in a database with the user data. To use
 ### Quickstart
 
 ```bash
-git clone https://github.com/DakaiGroup/nextjs-nextauth-metamask.git
+git clone https://github.com/pkarolyi/nextjs-nextauth-metamask.git
 cd nextjs-nextauth-metamask
 yarn
 yarn prisma migrate dev
